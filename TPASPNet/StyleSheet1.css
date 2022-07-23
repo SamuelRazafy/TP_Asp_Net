@@ -1,0 +1,28 @@
+﻿body {
+
+}
+.Button1 {
+    border-color: transparent;
+   
+}
+.Button1:hover{
+    background-color: forestgreen;
+
+}
+
+.Button2{
+    border-color: transparent;
+    
+}
+table,
+td {
+    border: 1px solid #333;
+    width: 908px;
+    margin-left: 293px;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
